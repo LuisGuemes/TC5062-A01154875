@@ -1,1 +1,5 @@
-# TC5062-A01154875
+# TC5062 | Análisis, diseño y construcción de software
+
+- Luis Eduardo Güemes Frese
+- A01154875
+- Trimestral Sep - Dic 2026
