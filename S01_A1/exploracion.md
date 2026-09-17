@@ -6,6 +6,7 @@ Necesito que revises el siguiente documento pdf '/Users/luisguemes/Documents/MNA
 1. Qué es el SWEBOK y cuál es su propósito en la ingeniería de software profesional?
 2. Haz un resumen sobre las 18 áreas de conocimiento mencionadas en el SWEBOK e incluye una oración que describa cada área
 3. Compara el modelo de cascada con el modelo iterativo y SCRUM, usando una tabla con los siguientes criterios: flexibilidad, visibilidad del progreso, adecuación para requisitos cambiantes, documentación requerida.
+
 Para cada respuesta necesito que hagas enfasis en la importancia de cada tema en la ingeniería de software y asegurate de que sea una respuesta que funcione como una guia para entender el SWEBOK y los principales elementos sobre la ingeniería de software. No te limites a dar respuestas vagas y genericas.
 La respuesta final damela en formato makdown.
 Una vez que termines tu respuesta, guarda este prompt y la respuesta en el siguiente archivo en el repo de github "LuisGuemes/TC5062-A01154875/S01_A1/exploracion.md"
